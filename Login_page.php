@@ -44,7 +44,7 @@
                        <div class="card-body p-md-5 mx-md-4">
                         <div class="text-center">
                             <img class="rounded-circle" src="./Images/logo.JFIF" alt="">
-                            <h1 class="mt-1 mb-5 pb-1">Al-Noor Fabrics</h1>
+                            <h1 class="head1 mt-1 mb-5 pb-1 ">Al-Noor Fabrics</h1>
 
                         </div>
                         <form method="post" action="" name="signin-form">
@@ -69,7 +69,7 @@
                             <div class="d-black align-items-center justify-content-center pb-4">
                                  <p class="mb-3 me-2">Don't have an account?</p>
                                  <button type="submit" name="login" value="register" class="btn btn-outline-dark w-100 bg-dark text-white"> Sign in </button>
-                          <button type="button" class="btn btn-outline-danger w-100 mt-2"> Sign in yoyr Google </button>
+                          <button type="button" class="btn btn-outline-danger w-100 mt-2"> Sign in your Google </button>
                         </div>
                         <div class="mb-4">
                             <p>Don't have no account? <a class="" href="">Sign up for free</a></p>

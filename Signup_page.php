@@ -49,7 +49,7 @@
                        <div class="card-body p-md-5 mx-md-4">
                         <div class="text-center">
                             <img class="rounded-circle" src="./Images/logo.JFIF" alt="">
-                            <h1 class="mt-1 mb-5 pb-1">Al-Noor Fabrics</h1>
+                            <h1 class="head1 mt-1 mb-5 pb-1">Al-Noor Fabrics</h1>
 
                         </div>
                         <form method="post" action="" name="signup-form">
